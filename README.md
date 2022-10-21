@@ -8,6 +8,6 @@ Clone https://github.com/aldevu/Ui-Absensi.git atau download zipnya
 
 Screnshoot :
 
-- ![login.png]( {https://ibb.co/3prxf8S} )
-- ![home.png]( {https://ibb.co/930bgm5} )
-- ![checkinsukses.png]( {https://ibb.co/xDW8q8F} )
+- ![login](https://i.ibb.co/R3vXhMQ/login.png)
+- ![home](https://i.ibb.co/dJvPMsY/checkin.png)
+- ![checkinsukses](https://i.ibb.co/R9f4T4j/checkin-sukses.png)
