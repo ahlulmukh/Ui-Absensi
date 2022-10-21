@@ -1,16 +1,13 @@
-# absensi
+# Ui-Absensi Online
 
-A new Flutter project.
+Flutter UI With Getx.
 
-## Getting Started
+## Cara Instal?
 
-This project is a starting point for a Flutter application.
+Clone https://github.com/aldevu/Ui-Absensi.git atau download zipnya
 
-A few resources to get you started if this is your first Flutter project:
+Screnshoot :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ![login.png]( {https://ibb.co/3prxf8S} )
+- ![home.png]( {https://ibb.co/930bgm5} )
+- ![checkinsukses.png]( {https://ibb.co/xDW8q8F} )
