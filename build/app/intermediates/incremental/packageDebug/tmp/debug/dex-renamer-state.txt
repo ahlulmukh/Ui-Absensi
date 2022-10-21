@@ -1,0 +1,4 @@
+#Wed Oct 19 23:39:03 ICT 2022
+base.0=D\:\\PROJECT\\Aplikasi\\Absensi\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
